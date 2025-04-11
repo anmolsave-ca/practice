@@ -9,3 +9,5 @@ Select
   ,app_dt
 from table_2
 ;
+
+print ('hello world')
