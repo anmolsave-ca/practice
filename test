@@ -11,3 +11,16 @@ from table_2
 ;
 
 print ('hello world')
+
+# function to compare two numbers
+def gt(a,b):
+    if a>b:
+        c=a
+        print('a is greater than b')
+    elif a==b:
+        c=a
+        print('a is equal to b')
+    else:
+        c=b
+        print('b is greater than a')
+    return c
