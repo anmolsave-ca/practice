@@ -3,3 +3,9 @@ Select
   * 
   from table_1
 ;
+Select 
+  cr_app_id
+  ,address
+  ,app_dt
+from table_2
+;
